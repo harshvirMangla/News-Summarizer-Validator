@@ -1,0 +1,5 @@
+newsapi-python
+finlight-client
+google-generativeai
+gradio
+rich
